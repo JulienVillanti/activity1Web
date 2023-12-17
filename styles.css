@@ -1,0 +1,8 @@
+#main_title {
+    text-align: center;
+}
+
+#mydiv {
+    display: flex;
+    justify-content: center;
+}
